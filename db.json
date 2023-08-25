@@ -202,15 +202,15 @@
           "answer": "Klimt"
         },
         {
-          "_id": 9,
-          "_question": "What is the name of the painting that features a melting clock?",
-          "_options": [
+          "id": 9,
+          "question": "What is the name of the painting that features a melting clock?",
+          "options": [
             "The Persistence of Memory",
             "Rembrandt Munch",
             "Gustav Klimt",
             "Egon Schiele"
           ],
-          "_answer": "The Persistence of Memory"
+          "answer": "The Persistence of Memory"
         }
       ]
     }

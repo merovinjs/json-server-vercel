@@ -135,5 +135,84 @@
       "resim": "https://i.nefisyemektarifleri.com/2013/07/tavuklu-sultan-kebabi-tarifi-fotografi.jpg",
       "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
     }
+  ],
+  "sorular": [
+    {
+      "easy": [
+        {
+          "id": 1,
+          "question": "What is the capital of Turkey?",
+          "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+          "answer": "Ankara"
+        },
+        {
+          "id": 2,
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "answer": "Jupiter"
+        },
+        {
+          "id": 3,
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "Vatican City", "Nauru", "Tuvalu"],
+          "answer": "Vatican City"
+        }
+      ],
+      "middle": [
+        {
+          "id": 4,
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "answer": "Canberra"
+        },
+        {
+          "id": 5,
+          "question": "'The Great Wave off Kanagawa' is a famous work of art from which country?",
+          "options": ["China", "Japan", "Korea", "Vietnam"],
+          "answer": "Japan"
+        },
+        {
+          "id": 6,
+          "question": "'The Persistence of Memory' is a famous work of art from which artist?",
+          "options": [
+            "Salvador Dali",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+          ],
+          "answer": "Salvador Dali"
+        }
+      ],
+      "hard": [
+        {
+          "id": 7,
+          "question": "'The Scream' is a famous work of art from which artist?",
+          "options": [
+            "Edvard Munch",
+            "Gustav Klimt",
+            "Egon Schiele",
+            "Rembrandt"
+          ],
+          "answer": "Rembrandt"
+        },
+        {
+          "id": 8,
+          "question": "'The Night Watch' is a famous work of art from which artist?",
+          "options": ["Rembrandt van Rijn", "Rembrandt", "Rembrandt", "Klimt"],
+          "answer": "Klimt"
+        },
+        {
+          "_id": 9,
+          "_question": "What is the name of the painting that features a melting clock?",
+          "_options": [
+            "The Persistence of Memory",
+            "Rembrandt Munch",
+            "Gustav Klimt",
+            "Egon Schiele"
+          ],
+          "_answer": "The Persistence of Memory"
+        }
+      ]
+    }
   ]
 }
